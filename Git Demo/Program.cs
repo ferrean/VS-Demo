@@ -11,6 +11,7 @@ namespace Git_Demo
         static void Main(string[] args)
         {
             //Changes on the Main Branch from VS 2015
+            //v1.1 hanges
         }
     }
 }
