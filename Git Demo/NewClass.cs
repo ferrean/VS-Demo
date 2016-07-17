@@ -9,5 +9,6 @@ namespace Git_Demo
     class NewClass
     {
         //Additional 1.1 changes
+        //17,07 changes
     }
 }
